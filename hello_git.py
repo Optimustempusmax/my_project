@@ -4,3 +4,4 @@ Type "help", "copyright", "credits" or "license()" for more information.
 Hello, Git
 >>> print('Индексация - это важно')
 Индексация - это важно
+print('Create new branch testing')
