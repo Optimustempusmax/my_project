@@ -1,3 +1,4 @@
+import os
 print('Hello, Git')
 print('Индексация - это важно')
 print('Create new branch testing')
@@ -6,3 +7,4 @@ print('Indexing is important!')
 
 for num in range(10):
         print(num,end=' ')
+print(f'\nYour current directory: {os.getcwd()}')
